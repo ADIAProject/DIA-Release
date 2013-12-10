@@ -50,3 +50,10 @@
 2013_04_09=Changes in section 	[Messages]		strMessages59
 	   Added in section 	[frmMain]		TableHwidHeader14
 	   Added in section 	[Messages]		strMessages142
+
+2013_07_17=Changes in section 	[Messages]		strMessages53,strMessages55,strMessages56;strMessages36
+	   Added in section 	[Messages]		strMessages143;strMessages144;strMessages145;strMessages146;strMessages147;strMessages148;strMessages149;strMessages150
+	   Added in section 	[frmMain]		lblNoDP4Mode;lblNoDPInProgram
+
+
+
