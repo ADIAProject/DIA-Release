@@ -1,6 +1,6 @@
  Unknown Device Identifier
           README
-       Version 8.00
+       Version 8.01
      Language: English
                French
 
@@ -35,7 +35,7 @@ are available for downloading
 
 [Version Info]
  
-   Latest Version is 8.00, Jan 25, 2012         
+   Latest Version is 8.01, July 10, 2013         
 
 [Software Language]
 
@@ -55,7 +55,7 @@ are available for downloading
 [Backup drivers]
 
    Download "My Drivers" to backup drivers for you 
-   My Drivers v5.00 http://www.zhangduo.com/mydrivers.exe
+   My Drivers v5.02 http://www.zhangduo.com/mydrivers.exe
 
    Shareware $39 or EURO 28 to register
    Registered users enjoy the privilege of Huntersoft technical support on all drivers problems.
@@ -65,7 +65,7 @@ are available for downloading
     - Backup drivers after identified them all and installed their proper drivers with "My Drivers" Professional 
     - Press F2 or Ctrl-C to copy selected to clipboard 
     - Press F3 to search the selected text on the internet.
-¡¡ 
+
 [Feedback] 
 
     Please email me here at support@zhangduo.com with any bug reports or suggestions. Let me know if this program has helped you out!

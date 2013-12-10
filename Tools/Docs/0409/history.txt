@@ -8,6 +8,35 @@ The Indications:
 	"*" - Make-up change
 	"!" - An Important notes on working the program.
 
+Version 5.10.2 Final (02.10.2013)
+	- Fixed compatibility analysis of drivers, if markers FORCED or STRICT were in the beginning.
+	- Fixed some rare errors in indexing driverpack's.
+	* Performance indexing increased by 20%.
+	- Fixed run the program without driverpack's.
+	* Replacement of the many elements of the interface to more stable .
+	+ Added partial to emulate the program to another computer on the basis of the file %Temp%\DriversInstaller\HwidsTempExt.txt, which is created each time then you start the program.
+	  Emulated by all except the version of the operating system. Functionality is available via the menu item - "Updating drivers database - Download information of another PC (Emulation work)".
+	* Added support for the latest markers
+	* Updated Program System Information Viewer to version V4.40
+	* Updated program Unknown Device Identifier to version V8.01
+	* Updated program DevManView to version V1.35
+	
+Version 5.7.17 Final (17.07.2013)
+	* Changed the procedure for checking updates , added a timeout waiting for a response from the server = 5 seconds , the update check is in asynchronous mode , ie without "freezing" of the program .
+	* Changed to switch between tabs in different modes
+	* Increased stability of the application, fixes random crashes the program - have been replaced with some GUI elements.
+	+ Added additional messages if there are no suitable driver packages in different modes of operation
+	* Work Mode "Removing older versions of the driver packages" also adapted for DriverPacksTeam Driverpack's, previously tested only on SamLab Driverpack's
+	- Fixed mode "Removing non-existent database driverpack's if in the program is more than one tab
+	+ Added functionality (requires testing) of the unzipped driver packages. Operating mode is mutually exclusive , ie, either the directories or files.
+	To enable it, set in the configuration file DriversInstaller.ini
+		[OS]
+		DP_is_aFolder = 1
+	- Fixed a bug when running the program with the parameters for resource recovery program
+	* Responsiveness of the program when you start external processes
+	* Updated the other language files
+	* Updated program DevManView to version V1.30
+
 Version 5.4.18 Final (18.04.2013)
 	- Fixed a few bugs
 	* Updated Program System Information Viewer to version V4.36

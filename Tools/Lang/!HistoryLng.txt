@@ -55,5 +55,5 @@
 	   Added in section 	[Messages]		strMessages143;strMessages144;strMessages145;strMessages146;strMessages147;strMessages148;strMessages149;strMessages150
 	   Added in section 	[frmMain]		lblNoDP4Mode;lblNoDPInProgram
 
-
+2013_10_01=Added in section 	[frmMain]		mnuLoadOtherPC
 

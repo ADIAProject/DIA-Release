@@ -1,4 +1,4 @@
-= Date 2012-09-23 Version 051 Records 10,289
+= Date 2013-05-02 Version 051 Records 10,290
 ;
 ; latest version available from http://rh-software.com/downloads/mondevs.txt
 ;
@@ -896,6 +896,7 @@ CM1797F=CM1797FS
 CM1797P=CM1797PF
 CM1997F=CM1997FS
 CM1997P=CM1997PF
+CMN1720=Chi Mei 173HGE
 CPC8000=Daewoo CPC-8000
 CPL096B=COMPAL H450
 CPL0975=COMPAL G450

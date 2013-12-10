@@ -1,7 +1,7 @@
 
 
 
-DevManView v1.30
+DevManView v1.35
 Copyright (c) 2009 - 2013 Nir Sofer
 Web site: http://www.nirsoft.net
 
@@ -37,6 +37,10 @@ system.
 Versions History
 ================
 
+
+* Version 1.35:
+  o Added 'Recent Disabled Devices Profile' submenu, which allows you
+    to easily load the recent 10 profiles you saved.
 
 * Version 1.30:
   o Added 'Save Disabled Devices Profile' and 'Load Disabled Devices
