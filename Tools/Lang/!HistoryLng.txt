@@ -57,3 +57,6 @@
 
 2013_10_01=Added in section 	[frmMain]		mnuLoadOtherPC
 
+2013_10_29=Added in section 	[frmMain]		mnuSaveInfoPC
+	   Added new section 	[frmEmulate]		frmEmulate;lblInfo;chk64bit;cmdOK;cmdExit
+

@@ -8,7 +8,19 @@ The Indications:
 	"*" - Make-up change
 	"!" - An Important notes on working the program.
 
-Version 5.10.2 Final (02.10.2013)
+Version 5.10.29 Final (29.10.2013)
+	+ Added the "Save information about the devices to emulate a program on the other PC"
+	+ Added form for emulation . Now also allows you to select the target operating system.
+	* Fixed issue progress if more than one tab, and some of them are empty
+	* Adding additional debug messages
+	* Optimization of the program loading and indexing driver packages
+	* Improved responsiveness of the program to index the driver packages
+	* Add information on the current progress in the implementation of the program header
+	* Fixed the GUI
+	* Code optimization program
+	* Updated support for markers prozvoditelya operating systems and laptops, for the correct determination of the touchpad
+
+Version 5.10.4 Final (04.10.2013)
 	- Fixed compatibility analysis of drivers, if markers FORCED or STRICT were in the beginning.
 	- Fixed some rare errors in indexing driverpack's.
 	* Performance indexing increased by 20%.
