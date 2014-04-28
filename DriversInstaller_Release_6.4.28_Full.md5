@@ -1,11 +1,3 @@
-30208aac4ab2252c5404679ab185c3f4 *drivers\All\.readme
-c1597ec48af1d60a910c60fcf218600d *drivers\All\dev_db\.readme
-677284f28c5f737f6bba6d18a536a874 *drivers\Vista\.readme
-a0d2d2ba01bacedabc811eb7ffebcb83 *drivers\Vista\dev_db\.readme
-6109e861fd08faccec58e2d82ed4db3f *drivers\Vista64\.readme
-416603e7b5b259f3fae37cafcf29c1b8 *drivers\Vista64\dev_db\.readme
-ae76517a9b444698c350b139ecc29940 *drivers\XP\.readme
-ac9553e4563b6124d01c4942da572794 *drivers\XP\dev_db\.readme
 7249e795fbb28cdab8dff2383689b9d5 *Tools\Arc\7-zip.chm
 0b13b6f77d6af73f48ced7f2e0a50148 *Tools\Arc\7-zip_RUS.chm
 c3d309156b8e8cf1d158de5fab1c2b40 *Tools\Arc\7za.exe
@@ -37,7 +29,7 @@ cbb7498cb68dc3b8b964e98175217c57 *Tools\DIA\Docs\0409\Help_files\image010.gif
 882b626403e4f4a80f8da8bc55cae9f4 *Tools\DIA\Docs\0409\Help_files\image022.jpg
 cfca89058da2ce82a87790c3e3590725 *Tools\DIA\Docs\0409\Help_files\image024.jpg
 9694a57af34ed9f8d86c621c355a6b96 *Tools\DIA\Docs\0409\Help_files\image026.jpg
-4702a83ee02245ae14b93243009580d7 *Tools\DIA\Docs\0409\history.txt
+a6191f590e1d4432675d2865bddb2a62 *Tools\DIA\Docs\0409\history.txt
 0cbd9d50eec41b26d24c5465c4be70bc *Tools\DIA\Docs\0409\licence.rtf
 03fce9b26d9e6a0b122ddc3e903c0199 *Tools\DIA\Docs\0409\Links.html
 637e1aacdfcfa01fdc8827eb48796b1b *Tools\DIA\Docs\0419\Donate.rtf
@@ -75,7 +67,7 @@ c09e3d3513563fac810a5461324b64ad *Tools\DIA\Docs\0419\Help_files\image044.jpg
 204bda25ad019d247bf825a114a25946 *Tools\DIA\Docs\0419\Help_files\image046.jpg
 d2989434261cf82e791e15efe69db7d3 *Tools\DIA\Docs\0419\Help_files\image047.jpg
 2c4d32f10120c6f366de05f5ff1380e5 *Tools\DIA\Docs\0419\Help_files\main.css
-9d2903de0da2e50d38f7b23800f8b6b1 *Tools\DIA\Docs\0419\history.txt
+3c25768120b606127d51a980b235c423 *Tools\DIA\Docs\0419\history.txt
 68da44c8b1027547e4763472e0ecb727 *Tools\DIA\Docs\0419\licence.rtf
 aa99719869d8fdb98283f853abc3cf7f *Tools\DIA\Docs\0419\Links.html
 bffb87d09a06570367f7bf41610f26cf *Tools\DIA\Graphics\Main\Standart\BTN_ADD.ico
@@ -135,15 +127,15 @@ ff181f18932837095a8c7af32a73fca4 *Tools\DIA\Graphics\StatusButton\Standart\BTN_O
 8d306d50627743cc73d243c24de5ee20 *Tools\DIA\Graphics\StatusButton\Standart\BTN_OK_OLD.ico
 a66637c017dc929ab4c1271a2df663c5 *Tools\DIA\Graphics\StatusButton\Standart\BTN_UPD_DRV.ico
 462f1ff4edb673c28c27b9645ee56cd2 *Tools\DIA\Lang\!AllListLNG.rtf
-17d05de2add064d63a2154177bb0398f *Tools\DIA\Lang\!HistoryLng.txt
-553ec124a9b4b5b062036a454f95c921 *Tools\DIA\Lang\Arabic.lng
-74c5dc6ba048dd40e216ffda174bc0d0 *Tools\DIA\Lang\Czech.lng
-d8500c08d6791137a519333ca6870554 *Tools\DIA\Lang\English.lng
-89872a63f9bde3f2a764334d4b684870 *Tools\DIA\Lang\Italian.lng
-e0134d2228f787fe7eb3309a57cc7b6a *Tools\DIA\Lang\Lithuanian.lng
-fdc335967c14bd7c7e8cd65f31fbf09e *Tools\DIA\Lang\Russian.lng
-b138f736f24490f83f9c19e429fa9429 *Tools\DIA\Lang\Turkish.lng
-7461e267cd2ad4bd9b2abc12eeade2d9 *Tools\DIA\Lang\Ukrainian.lng
+f227bd7029eb6512b00d325c8ea3e140 *Tools\DIA\Lang\!HistoryLng.txt
+147c26bdac542f532ac7dbaabbe46a4f *Tools\DIA\Lang\Arabic.lng
+78b6207d050e9216d43d4e6d86347aac *Tools\DIA\Lang\Czech.lng
+a0b898557f555aa739b1260ee822bbf1 *Tools\DIA\Lang\English.lng
+dcfa6f5a569b1978dfbd60282898095f *Tools\DIA\Lang\Italian.lng
+c3dff8a386484a1bdbe6383924db2197 *Tools\DIA\Lang\Lithuanian.lng
+7a5a033aeecf013a42a29a57c91f4b60 *Tools\DIA\Lang\Russian.lng
+c488cba5b258ac1341239f8ec35feec2 *Tools\DIA\Lang\Turkish.lng
+2928bec3fe6225b2c138b22b58f59951 *Tools\DIA\Lang\Ukrainian.lng
 cbe4163caab5ae09fa1e03b87b491380 *Tools\DoubleDriver\dd.dll
 ba391e271e81346f87800050c99cbffa *Tools\DoubleDriver\dd.exe
 97b963fd85ff4cc2a3b0da8164593cfc *Tools\DoubleDriver\ddc.exe
@@ -185,4 +177,14 @@ c1f0d1206dbce9f9aa4263025714b370 *Tools\UnknownDevices\DeviceLists.zip
 9864c590036799dd56003f6c8dfc308e *Tools\UnknownDevices\SoftwareUsageAgreement.txt
 f4b834f7fc8ed4b15d6cf38e012597dc *Tools\UnknownDevices\UKD.ico
 fc1447a8947ed4dfeddc45ea66ac2e6e *Tools\UnknownDevices\UnknownDevices.exe
-b7b9f6760191ba5dbd1cb9e97f4a7f0c *DIA.exe
+30208aac4ab2252c5404679ab185c3f4 *drivers\All\.readme
+c1597ec48af1d60a910c60fcf218600d *drivers\All\dev_db\.readme
+677284f28c5f737f6bba6d18a536a874 *drivers\Vista\.readme
+a0d2d2ba01bacedabc811eb7ffebcb83 *drivers\Vista\dev_db\.readme
+6109e861fd08faccec58e2d82ed4db3f *drivers\Vista64\.readme
+416603e7b5b259f3fae37cafcf29c1b8 *drivers\Vista64\dev_db\.readme
+ae76517a9b444698c350b139ecc29940 *drivers\XP\.readme
+ac9553e4563b6124d01c4942da572794 *drivers\XP\dev_db\.readme
+5a3abf7d58a5bb6b065467b187c29365 *DIA.exe
+ad595c89be55304d42afeca2d323c2e0 *Drivers BackUp Solution (Создай резервную копию драйверов).url
+ad595c89be55304d42afeca2d323c2e0 *Drivers Installer Assistant (Помощник установки драйверов).url
